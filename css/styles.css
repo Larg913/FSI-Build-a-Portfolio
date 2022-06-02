@@ -1,7 +1,25 @@
 body {
-    color:blue;
+    background-color: #092834
 }
 
 h1 {
-    background-color: lightblue;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color:antiquewhite
+}
+
+p {
+    color:blanchedalmond
+
+}
+img{
+    border: 5px dotted white;
 }
