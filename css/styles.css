@@ -22,4 +22,8 @@ p {
 }
 img{
     border: 5px dotted white;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%
 }
